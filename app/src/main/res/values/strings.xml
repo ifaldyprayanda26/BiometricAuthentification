@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Biometric Authentification</string>
+    <string name="clickbutton">Click button to start authentification</string>
+    <string name="authentfication">AUTHENTIFICATE</string>
+    <string name="autherror">Authentification error !</string>
+    <string name="authsucceed">Authentification Succeed...!</string>
+    <string name="authfailed">Authentification Failed...!</string>
+    <string name="biometricauth">Biometric Authentification Login</string>
+    <string name="biometricauthsubtitle">Login using fingerprint authentification</string>
+    <string name="useapp">Use App Password instead</string>
+</resources>
